@@ -1,0 +1,38 @@
+[
+    {
+        "sensor": "CPU",
+        "threshold": 70,
+        "hysteresis": 20
+    },
+    {
+        "sensor": "PCH",
+        "threshold": 75,
+        "hysteresis": 25
+    },
+    {
+        "sensor": "System",
+        "threshold": 60,
+        "hysteresis": 25
+
+    },
+    {
+        "sensor": "Peripheral",
+        "threshold": 60,
+        "hysteresis": 15
+    },
+    {
+        "sensor": "Vcpu",
+        "threshold": 70,
+        "hysteresis": 25
+    },
+    {
+        "sensor": "Vmem",
+        "threshold": 70,
+        "hysteresis": 30
+    },
+    {
+        "sensor": "-DIMM",
+        "threshold": 55,
+        "hysteresis": 20
+    }
+]
